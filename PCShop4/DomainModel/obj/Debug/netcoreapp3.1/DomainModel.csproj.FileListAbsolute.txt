@@ -1,0 +1,49 @@
+D:\0000Projects\020 Final\DomainModel\obj\Debug\netcoreapp3.1\DomainModel.csproj.AssemblyReference.cache
+D:\0000Projects\020 Final\DomainModel\obj\Debug\netcoreapp3.1\DomainModel.GeneratedMSBuildEditorConfig.editorconfig
+D:\0000Projects\020 Final\DomainModel\obj\Debug\netcoreapp3.1\DomainModel.AssemblyInfoInputs.cache
+D:\0000Projects\020 Final\DomainModel\obj\Debug\netcoreapp3.1\DomainModel.AssemblyInfo.cs
+D:\0000Projects\020 Final\DomainModel\obj\Debug\netcoreapp3.1\DomainModel.csproj.CoreCompileInputs.cache
+D:\0000Projects\020 Final\DomainModel\bin\Debug\netcoreapp3.1\DomainModel.deps.json
+D:\0000Projects\020 Final\DomainModel\bin\Debug\netcoreapp3.1\DomainModel.dll
+D:\0000Projects\020 Final\DomainModel\bin\Debug\netcoreapp3.1\DomainModel.pdb
+D:\0000Projects\020 Final\DomainModel\obj\Debug\netcoreapp3.1\DomainModel.dll
+D:\0000Projects\020 Final\DomainModel\obj\Debug\netcoreapp3.1\DomainModel.pdb
+D:\0000Projects\020 Final\DomainModel\bin\Debug\netcoreapp3.1\Infrastructure.dll
+D:\0000Projects\020 Final\DomainModel\bin\Debug\netcoreapp3.1\Infrastructure.pdb
+D:\0000Projects\020 Final\DomainModel\obj\Debug\netcoreapp3.1\DomainModel.csproj.CopyComplete
+C:\Users\S KiOUMEHR B\Desktop\020 Final\DomainModel\bin\Debug\netcoreapp3.1\DomainModel.deps.json
+C:\Users\S KiOUMEHR B\Desktop\020 Final\DomainModel\bin\Debug\netcoreapp3.1\DomainModel.dll
+C:\Users\S KiOUMEHR B\Desktop\020 Final\DomainModel\bin\Debug\netcoreapp3.1\DomainModel.pdb
+C:\Users\S KiOUMEHR B\Desktop\020 Final\DomainModel\bin\Debug\netcoreapp3.1\Infrastructure.dll
+C:\Users\S KiOUMEHR B\Desktop\020 Final\DomainModel\bin\Debug\netcoreapp3.1\Infrastructure.pdb
+C:\Users\S KiOUMEHR B\Desktop\020 Final\DomainModel\obj\Debug\netcoreapp3.1\DomainModel.csproj.AssemblyReference.cache
+C:\Users\S KiOUMEHR B\Desktop\020 Final\DomainModel\obj\Debug\netcoreapp3.1\DomainModel.AssemblyInfoInputs.cache
+C:\Users\S KiOUMEHR B\Desktop\020 Final\DomainModel\obj\Debug\netcoreapp3.1\DomainModel.AssemblyInfo.cs
+C:\Users\S KiOUMEHR B\Desktop\020 Final\DomainModel\obj\Debug\netcoreapp3.1\DomainModel.csproj.CoreCompileInputs.cache
+C:\Users\S KiOUMEHR B\Desktop\020 Final\DomainModel\obj\Debug\netcoreapp3.1\DomainModel.csproj.CopyComplete
+C:\Users\S KiOUMEHR B\Desktop\020 Final\DomainModel\obj\Debug\netcoreapp3.1\DomainModel.dll
+C:\Users\S KiOUMEHR B\Desktop\020 Final\DomainModel\obj\Debug\netcoreapp3.1\DomainModel.pdb
+C:\Users\S KiOUMEHR B\Desktop\PCShop4\DomainModel\bin\Debug\netcoreapp3.1\DomainModel.deps.json
+C:\Users\S KiOUMEHR B\Desktop\PCShop4\DomainModel\bin\Debug\netcoreapp3.1\DomainModel.dll
+C:\Users\S KiOUMEHR B\Desktop\PCShop4\DomainModel\bin\Debug\netcoreapp3.1\DomainModel.pdb
+C:\Users\S KiOUMEHR B\Desktop\PCShop4\DomainModel\bin\Debug\netcoreapp3.1\Infrastructure.dll
+C:\Users\S KiOUMEHR B\Desktop\PCShop4\DomainModel\bin\Debug\netcoreapp3.1\Infrastructure.pdb
+C:\Users\S KiOUMEHR B\Desktop\PCShop4\DomainModel\obj\Debug\netcoreapp3.1\DomainModel.csproj.AssemblyReference.cache
+C:\Users\S KiOUMEHR B\Desktop\PCShop4\DomainModel\obj\Debug\netcoreapp3.1\DomainModel.AssemblyInfoInputs.cache
+C:\Users\S KiOUMEHR B\Desktop\PCShop4\DomainModel\obj\Debug\netcoreapp3.1\DomainModel.AssemblyInfo.cs
+C:\Users\S KiOUMEHR B\Desktop\PCShop4\DomainModel\obj\Debug\netcoreapp3.1\DomainModel.csproj.CoreCompileInputs.cache
+C:\Users\S KiOUMEHR B\Desktop\PCShop4\DomainModel\obj\Debug\netcoreapp3.1\DomainModel.csproj.CopyComplete
+C:\Users\S KiOUMEHR B\Desktop\PCShop4\DomainModel\obj\Debug\netcoreapp3.1\DomainModel.dll
+C:\Users\S KiOUMEHR B\Desktop\PCShop4\DomainModel\obj\Debug\netcoreapp3.1\DomainModel.pdb
+C:\Users\S KiOUMEHR B\source\repos\PCShop4\DomainModel\bin\Debug\netcoreapp3.1\DomainModel.deps.json
+C:\Users\S KiOUMEHR B\source\repos\PCShop4\DomainModel\bin\Debug\netcoreapp3.1\DomainModel.dll
+C:\Users\S KiOUMEHR B\source\repos\PCShop4\DomainModel\bin\Debug\netcoreapp3.1\DomainModel.pdb
+C:\Users\S KiOUMEHR B\source\repos\PCShop4\DomainModel\bin\Debug\netcoreapp3.1\Infrastructure.dll
+C:\Users\S KiOUMEHR B\source\repos\PCShop4\DomainModel\bin\Debug\netcoreapp3.1\Infrastructure.pdb
+C:\Users\S KiOUMEHR B\source\repos\PCShop4\DomainModel\obj\Debug\netcoreapp3.1\DomainModel.csproj.AssemblyReference.cache
+C:\Users\S KiOUMEHR B\source\repos\PCShop4\DomainModel\obj\Debug\netcoreapp3.1\DomainModel.AssemblyInfoInputs.cache
+C:\Users\S KiOUMEHR B\source\repos\PCShop4\DomainModel\obj\Debug\netcoreapp3.1\DomainModel.AssemblyInfo.cs
+C:\Users\S KiOUMEHR B\source\repos\PCShop4\DomainModel\obj\Debug\netcoreapp3.1\DomainModel.csproj.CoreCompileInputs.cache
+C:\Users\S KiOUMEHR B\source\repos\PCShop4\DomainModel\obj\Debug\netcoreapp3.1\DomainModel.csproj.CopyComplete
+C:\Users\S KiOUMEHR B\source\repos\PCShop4\DomainModel\obj\Debug\netcoreapp3.1\DomainModel.dll
+C:\Users\S KiOUMEHR B\source\repos\PCShop4\DomainModel\obj\Debug\netcoreapp3.1\DomainModel.pdb

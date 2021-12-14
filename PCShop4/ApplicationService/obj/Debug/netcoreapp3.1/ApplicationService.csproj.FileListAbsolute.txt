@@ -1,0 +1,65 @@
+D:\0000Projects\020 Final\ApplicationService\obj\Debug\netcoreapp3.1\ApplicationService.csproj.AssemblyReference.cache
+D:\0000Projects\020 Final\ApplicationService\obj\Debug\netcoreapp3.1\ApplicationService.GeneratedMSBuildEditorConfig.editorconfig
+D:\0000Projects\020 Final\ApplicationService\obj\Debug\netcoreapp3.1\ApplicationService.AssemblyInfoInputs.cache
+D:\0000Projects\020 Final\ApplicationService\obj\Debug\netcoreapp3.1\ApplicationService.AssemblyInfo.cs
+D:\0000Projects\020 Final\ApplicationService\obj\Debug\netcoreapp3.1\ApplicationService.csproj.CoreCompileInputs.cache
+D:\0000Projects\020 Final\ApplicationService\bin\Debug\netcoreapp3.1\ApplicationService.deps.json
+D:\0000Projects\020 Final\ApplicationService\bin\Debug\netcoreapp3.1\ApplicationService.dll
+D:\0000Projects\020 Final\ApplicationService\bin\Debug\netcoreapp3.1\ApplicationService.pdb
+D:\0000Projects\020 Final\ApplicationService\bin\Debug\netcoreapp3.1\DomainModel.dll
+D:\0000Projects\020 Final\ApplicationService\bin\Debug\netcoreapp3.1\Repository.dll
+D:\0000Projects\020 Final\ApplicationService\bin\Debug\netcoreapp3.1\DomainModel.pdb
+D:\0000Projects\020 Final\ApplicationService\bin\Debug\netcoreapp3.1\Repository.pdb
+D:\0000Projects\020 Final\ApplicationService\obj\Debug\netcoreapp3.1\ApplicationService.csproj.CopyComplete
+D:\0000Projects\020 Final\ApplicationService\obj\Debug\netcoreapp3.1\ApplicationService.dll
+D:\0000Projects\020 Final\ApplicationService\obj\Debug\netcoreapp3.1\ApplicationService.pdb
+D:\0000Projects\020 Final\ApplicationService\bin\Debug\netcoreapp3.1\Infrastructure.dll
+D:\0000Projects\020 Final\ApplicationService\bin\Debug\netcoreapp3.1\Infrastructure.pdb
+C:\Users\S KiOUMEHR B\Desktop\020 Final\ApplicationService\bin\Debug\netcoreapp3.1\ApplicationService.deps.json
+C:\Users\S KiOUMEHR B\Desktop\020 Final\ApplicationService\bin\Debug\netcoreapp3.1\ApplicationService.dll
+C:\Users\S KiOUMEHR B\Desktop\020 Final\ApplicationService\bin\Debug\netcoreapp3.1\ApplicationService.pdb
+C:\Users\S KiOUMEHR B\Desktop\020 Final\ApplicationService\bin\Debug\netcoreapp3.1\DomainModel.dll
+C:\Users\S KiOUMEHR B\Desktop\020 Final\ApplicationService\bin\Debug\netcoreapp3.1\Infrastructure.dll
+C:\Users\S KiOUMEHR B\Desktop\020 Final\ApplicationService\bin\Debug\netcoreapp3.1\Repository.dll
+C:\Users\S KiOUMEHR B\Desktop\020 Final\ApplicationService\bin\Debug\netcoreapp3.1\DomainModel.pdb
+C:\Users\S KiOUMEHR B\Desktop\020 Final\ApplicationService\bin\Debug\netcoreapp3.1\Infrastructure.pdb
+C:\Users\S KiOUMEHR B\Desktop\020 Final\ApplicationService\bin\Debug\netcoreapp3.1\Repository.pdb
+C:\Users\S KiOUMEHR B\Desktop\020 Final\ApplicationService\obj\Debug\netcoreapp3.1\ApplicationService.csproj.AssemblyReference.cache
+C:\Users\S KiOUMEHR B\Desktop\020 Final\ApplicationService\obj\Debug\netcoreapp3.1\ApplicationService.AssemblyInfoInputs.cache
+C:\Users\S KiOUMEHR B\Desktop\020 Final\ApplicationService\obj\Debug\netcoreapp3.1\ApplicationService.AssemblyInfo.cs
+C:\Users\S KiOUMEHR B\Desktop\020 Final\ApplicationService\obj\Debug\netcoreapp3.1\ApplicationService.csproj.CoreCompileInputs.cache
+C:\Users\S KiOUMEHR B\Desktop\020 Final\ApplicationService\obj\Debug\netcoreapp3.1\ApplicationService.csproj.CopyComplete
+C:\Users\S KiOUMEHR B\Desktop\020 Final\ApplicationService\obj\Debug\netcoreapp3.1\ApplicationService.dll
+C:\Users\S KiOUMEHR B\Desktop\020 Final\ApplicationService\obj\Debug\netcoreapp3.1\ApplicationService.pdb
+C:\Users\S KiOUMEHR B\Desktop\PCShop4\ApplicationService\obj\Debug\netcoreapp3.1\ApplicationService.csproj.AssemblyReference.cache
+C:\Users\S KiOUMEHR B\Desktop\PCShop4\ApplicationService\obj\Debug\netcoreapp3.1\ApplicationService.AssemblyInfoInputs.cache
+C:\Users\S KiOUMEHR B\Desktop\PCShop4\ApplicationService\obj\Debug\netcoreapp3.1\ApplicationService.AssemblyInfo.cs
+C:\Users\S KiOUMEHR B\Desktop\PCShop4\ApplicationService\obj\Debug\netcoreapp3.1\ApplicationService.csproj.CoreCompileInputs.cache
+C:\Users\S KiOUMEHR B\Desktop\PCShop4\ApplicationService\obj\Debug\netcoreapp3.1\ApplicationService.dll
+C:\Users\S KiOUMEHR B\Desktop\PCShop4\ApplicationService\obj\Debug\netcoreapp3.1\ApplicationService.pdb
+C:\Users\S KiOUMEHR B\Desktop\PCShop4\ApplicationService\bin\Debug\netcoreapp3.1\ApplicationService.deps.json
+C:\Users\S KiOUMEHR B\Desktop\PCShop4\ApplicationService\bin\Debug\netcoreapp3.1\ApplicationService.dll
+C:\Users\S KiOUMEHR B\Desktop\PCShop4\ApplicationService\bin\Debug\netcoreapp3.1\ApplicationService.pdb
+C:\Users\S KiOUMEHR B\Desktop\PCShop4\ApplicationService\bin\Debug\netcoreapp3.1\DomainModel.dll
+C:\Users\S KiOUMEHR B\Desktop\PCShop4\ApplicationService\bin\Debug\netcoreapp3.1\Infrastructure.dll
+C:\Users\S KiOUMEHR B\Desktop\PCShop4\ApplicationService\bin\Debug\netcoreapp3.1\Repository.dll
+C:\Users\S KiOUMEHR B\Desktop\PCShop4\ApplicationService\bin\Debug\netcoreapp3.1\DomainModel.pdb
+C:\Users\S KiOUMEHR B\Desktop\PCShop4\ApplicationService\bin\Debug\netcoreapp3.1\Infrastructure.pdb
+C:\Users\S KiOUMEHR B\Desktop\PCShop4\ApplicationService\bin\Debug\netcoreapp3.1\Repository.pdb
+C:\Users\S KiOUMEHR B\Desktop\PCShop4\ApplicationService\obj\Debug\netcoreapp3.1\ApplicationService.csproj.CopyComplete
+C:\Users\S KiOUMEHR B\source\repos\PCShop4\ApplicationService\bin\Debug\netcoreapp3.1\ApplicationService.deps.json
+C:\Users\S KiOUMEHR B\source\repos\PCShop4\ApplicationService\bin\Debug\netcoreapp3.1\ApplicationService.dll
+C:\Users\S KiOUMEHR B\source\repos\PCShop4\ApplicationService\bin\Debug\netcoreapp3.1\ApplicationService.pdb
+C:\Users\S KiOUMEHR B\source\repos\PCShop4\ApplicationService\bin\Debug\netcoreapp3.1\DomainModel.dll
+C:\Users\S KiOUMEHR B\source\repos\PCShop4\ApplicationService\bin\Debug\netcoreapp3.1\Infrastructure.dll
+C:\Users\S KiOUMEHR B\source\repos\PCShop4\ApplicationService\bin\Debug\netcoreapp3.1\Repository.dll
+C:\Users\S KiOUMEHR B\source\repos\PCShop4\ApplicationService\bin\Debug\netcoreapp3.1\DomainModel.pdb
+C:\Users\S KiOUMEHR B\source\repos\PCShop4\ApplicationService\bin\Debug\netcoreapp3.1\Infrastructure.pdb
+C:\Users\S KiOUMEHR B\source\repos\PCShop4\ApplicationService\bin\Debug\netcoreapp3.1\Repository.pdb
+C:\Users\S KiOUMEHR B\source\repos\PCShop4\ApplicationService\obj\Debug\netcoreapp3.1\ApplicationService.csproj.AssemblyReference.cache
+C:\Users\S KiOUMEHR B\source\repos\PCShop4\ApplicationService\obj\Debug\netcoreapp3.1\ApplicationService.AssemblyInfoInputs.cache
+C:\Users\S KiOUMEHR B\source\repos\PCShop4\ApplicationService\obj\Debug\netcoreapp3.1\ApplicationService.AssemblyInfo.cs
+C:\Users\S KiOUMEHR B\source\repos\PCShop4\ApplicationService\obj\Debug\netcoreapp3.1\ApplicationService.csproj.CoreCompileInputs.cache
+C:\Users\S KiOUMEHR B\source\repos\PCShop4\ApplicationService\obj\Debug\netcoreapp3.1\ApplicationService.csproj.CopyComplete
+C:\Users\S KiOUMEHR B\source\repos\PCShop4\ApplicationService\obj\Debug\netcoreapp3.1\ApplicationService.dll
+C:\Users\S KiOUMEHR B\source\repos\PCShop4\ApplicationService\obj\Debug\netcoreapp3.1\ApplicationService.pdb

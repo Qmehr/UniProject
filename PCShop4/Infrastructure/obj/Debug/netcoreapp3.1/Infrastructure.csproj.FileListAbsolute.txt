@@ -1,0 +1,37 @@
+D:\0000Projects\020 Final\Infrastructure\bin\Debug\netcoreapp3.1\Infrastructure.deps.json
+D:\0000Projects\020 Final\Infrastructure\bin\Debug\netcoreapp3.1\Infrastructure.dll
+D:\0000Projects\020 Final\Infrastructure\bin\Debug\netcoreapp3.1\Infrastructure.pdb
+D:\0000Projects\020 Final\Infrastructure\obj\Debug\netcoreapp3.1\Infrastructure.csproj.AssemblyReference.cache
+D:\0000Projects\020 Final\Infrastructure\obj\Debug\netcoreapp3.1\Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+D:\0000Projects\020 Final\Infrastructure\obj\Debug\netcoreapp3.1\Infrastructure.AssemblyInfoInputs.cache
+D:\0000Projects\020 Final\Infrastructure\obj\Debug\netcoreapp3.1\Infrastructure.AssemblyInfo.cs
+D:\0000Projects\020 Final\Infrastructure\obj\Debug\netcoreapp3.1\Infrastructure.csproj.CoreCompileInputs.cache
+D:\0000Projects\020 Final\Infrastructure\obj\Debug\netcoreapp3.1\Infrastructure.dll
+D:\0000Projects\020 Final\Infrastructure\obj\Debug\netcoreapp3.1\Infrastructure.pdb
+C:\Users\S KiOUMEHR B\Desktop\020 Final\Infrastructure\bin\Debug\netcoreapp3.1\Infrastructure.deps.json
+C:\Users\S KiOUMEHR B\Desktop\020 Final\Infrastructure\bin\Debug\netcoreapp3.1\Infrastructure.dll
+C:\Users\S KiOUMEHR B\Desktop\020 Final\Infrastructure\bin\Debug\netcoreapp3.1\Infrastructure.pdb
+C:\Users\S KiOUMEHR B\Desktop\020 Final\Infrastructure\obj\Debug\netcoreapp3.1\Infrastructure.csproj.AssemblyReference.cache
+C:\Users\S KiOUMEHR B\Desktop\020 Final\Infrastructure\obj\Debug\netcoreapp3.1\Infrastructure.AssemblyInfoInputs.cache
+C:\Users\S KiOUMEHR B\Desktop\020 Final\Infrastructure\obj\Debug\netcoreapp3.1\Infrastructure.AssemblyInfo.cs
+C:\Users\S KiOUMEHR B\Desktop\020 Final\Infrastructure\obj\Debug\netcoreapp3.1\Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\S KiOUMEHR B\Desktop\020 Final\Infrastructure\obj\Debug\netcoreapp3.1\Infrastructure.dll
+C:\Users\S KiOUMEHR B\Desktop\020 Final\Infrastructure\obj\Debug\netcoreapp3.1\Infrastructure.pdb
+C:\Users\S KiOUMEHR B\Desktop\PCShop4\Infrastructure\bin\Debug\netcoreapp3.1\Infrastructure.deps.json
+C:\Users\S KiOUMEHR B\Desktop\PCShop4\Infrastructure\bin\Debug\netcoreapp3.1\Infrastructure.dll
+C:\Users\S KiOUMEHR B\Desktop\PCShop4\Infrastructure\bin\Debug\netcoreapp3.1\Infrastructure.pdb
+C:\Users\S KiOUMEHR B\Desktop\PCShop4\Infrastructure\obj\Debug\netcoreapp3.1\Infrastructure.csproj.AssemblyReference.cache
+C:\Users\S KiOUMEHR B\Desktop\PCShop4\Infrastructure\obj\Debug\netcoreapp3.1\Infrastructure.AssemblyInfoInputs.cache
+C:\Users\S KiOUMEHR B\Desktop\PCShop4\Infrastructure\obj\Debug\netcoreapp3.1\Infrastructure.AssemblyInfo.cs
+C:\Users\S KiOUMEHR B\Desktop\PCShop4\Infrastructure\obj\Debug\netcoreapp3.1\Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\S KiOUMEHR B\Desktop\PCShop4\Infrastructure\obj\Debug\netcoreapp3.1\Infrastructure.dll
+C:\Users\S KiOUMEHR B\Desktop\PCShop4\Infrastructure\obj\Debug\netcoreapp3.1\Infrastructure.pdb
+C:\Users\S KiOUMEHR B\source\repos\PCShop4\Infrastructure\bin\Debug\netcoreapp3.1\Infrastructure.deps.json
+C:\Users\S KiOUMEHR B\source\repos\PCShop4\Infrastructure\bin\Debug\netcoreapp3.1\Infrastructure.dll
+C:\Users\S KiOUMEHR B\source\repos\PCShop4\Infrastructure\bin\Debug\netcoreapp3.1\Infrastructure.pdb
+C:\Users\S KiOUMEHR B\source\repos\PCShop4\Infrastructure\obj\Debug\netcoreapp3.1\Infrastructure.csproj.AssemblyReference.cache
+C:\Users\S KiOUMEHR B\source\repos\PCShop4\Infrastructure\obj\Debug\netcoreapp3.1\Infrastructure.AssemblyInfoInputs.cache
+C:\Users\S KiOUMEHR B\source\repos\PCShop4\Infrastructure\obj\Debug\netcoreapp3.1\Infrastructure.AssemblyInfo.cs
+C:\Users\S KiOUMEHR B\source\repos\PCShop4\Infrastructure\obj\Debug\netcoreapp3.1\Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\S KiOUMEHR B\source\repos\PCShop4\Infrastructure\obj\Debug\netcoreapp3.1\Infrastructure.dll
+C:\Users\S KiOUMEHR B\source\repos\PCShop4\Infrastructure\obj\Debug\netcoreapp3.1\Infrastructure.pdb

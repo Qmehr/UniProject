@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "fqohVgOeWj8r8eaXgLED0NhH6Obl9HnrKno09GxKDOuu0WLA6185cQsClPBNdpRZsINSme4crybSCDSMvjIqjQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\S KiOUMEHR B\\Desktop\\PCShop4\\Host\\Host.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\S KiOUMEHR B\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.18\\microsoft.netcore.app.host.win-x64.3.1.18.nupkg.sha512"
+  ],
+  "logs": []
+}
